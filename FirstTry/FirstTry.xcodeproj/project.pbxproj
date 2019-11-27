@@ -15,6 +15,7 @@
 		705F9B18238F0AEF002FBEFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 705F9B16238F0AEF002FBEFF /* LaunchScreen.storyboard */; };
 		705F9B23238F0AEF002FBEFF /* FirstTryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F9B22238F0AEF002FBEFF /* FirstTryTests.swift */; };
 		705F9B2E238F0AEF002FBEFF /* FirstTryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F9B2D238F0AEF002FBEFF /* FirstTryUITests.swift */; };
+		705F9B3E238F253F002FBEFF /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = 705F9B3D238F253F002FBEFF /* 120.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		705F9B29238F0AEF002FBEFF /* FirstTryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstTryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		705F9B2D238F0AEF002FBEFF /* FirstTryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTryUITests.swift; sourceTree = "<group>"; };
 		705F9B2F238F0AEF002FBEFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		705F9B3D238F253F002FBEFF /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 120.png; path = ../../../../../Downloads/AppIcons/Assets.xcassets/AppIcon.appiconset/120.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				705F9B11238F0AEF002FBEFF /* Assets.xcassets */,
 				705F9B16238F0AEF002FBEFF /* LaunchScreen.storyboard */,
 				705F9B19238F0AEF002FBEFF /* Info.plist */,
+				705F9B3D238F253F002FBEFF /* 120.png */,
 				705F9B13238F0AEF002FBEFF /* Preview Content */,
 			);
 			path = FirstTry;
@@ -241,6 +244,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				705F9B18238F0AEF002FBEFF /* LaunchScreen.storyboard in Resources */,
+				705F9B3E238F253F002FBEFF /* 120.png in Resources */,
 				705F9B15238F0AEF002FBEFF /* Preview Assets.xcassets in Resources */,
 				705F9B12238F0AEF002FBEFF /* Assets.xcassets in Resources */,
 			);
